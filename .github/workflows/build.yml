@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Unzip project
-        run: unzip fluthvisual21.zip
+        run: unzip fluthvisual22.zip
 
       - uses: actions/setup-java@v4
         with:
